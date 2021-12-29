@@ -31,10 +31,10 @@ Make your first model with
   mongoose generate model user name:string notes:mixed houseId:idt
 ```
 
-Set the Mongo URI
+Edit the uri in models/connection-string.js
 
 ```bash
-  mongoose setUri 'mongodb://andy:corn@localhost:27017/cli'
+ var uri = 'mongodb://localhost:27017/cli';
 
 ```
 
