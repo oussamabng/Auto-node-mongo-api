@@ -1,8 +1,7 @@
 
 # Auto api creation
 
-a project to create a rest api with node-js and mongodb in 5 min.
-
+cli for fast node/mongodb api 
 
 
 ## Installation
